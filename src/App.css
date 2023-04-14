@@ -1,0 +1,64 @@
+/* =========== nav ========> */
+nav{background-color:#FF6D60;}
+li .nav-link{color: #F9F2ED;}
+.footer-color{
+    background-color:#FF6D60;  
+}
+
+
+/* =========== portfolio ========> */
+.portf-item{
+    position: relative;
+}
+.item-layer{
+    inset:0;
+    position: absolute;
+    background: rgba(27,188,155,.9)  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+.item-layer i{
+   color: white; 
+   font-size: 3.75rem;
+}
+
+.portf-item:hover .item-layer{
+    display:flex;
+    cursor: pointer;
+}
+/* =========== home ========> */
+.line-left{
+    position: relative;
+}
+.line-right{
+    position: relative;
+}
+.line-left::before{
+    content: '';
+    width: 150px;
+    height: 10px;
+    position: absolute;
+background-color: black;
+    top: 0px;
+    right: 0;
+   
+}
+.line-right::before{
+    content: '';
+    width: 150px;
+    height: 10px;
+    position: absolute;
+background-color: black;
+    top: 0px;
+    left: 0;
+   
+}
+.icon-background{
+    background-color: #F9F2ED;
+}
+/* =========== contact ========> */
+input{
+    border: none;
+}
