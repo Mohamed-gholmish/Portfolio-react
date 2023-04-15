@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio-react/static/css/main.f3e42085.css",
-    "main.js": "/Portfolio-react/static/js/main.19382465.js",
-    "static/media/fa-solid-900.ttf": "/Portfolio-react/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
-    "static/media/fa-brands-400.ttf": "/Portfolio-react/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
-    "static/media/fa-solid-900.woff2": "/Portfolio-react/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
-    "static/media/fa-brands-400.woff2": "/Portfolio-react/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
-    "static/media/fa-regular-400.ttf": "/Portfolio-react/static/media/fa-regular-400.146404900f7550a9719d.ttf",
-    "static/media/cabin.png": "/Portfolio-react/static/media/cabin.4417330275f78faa31c3.png",
-    "static/media/circus.png": "/Portfolio-react/static/media/circus.494a4a914b5471b41f3e.png",
-    "static/media/fa-regular-400.woff2": "/Portfolio-react/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
-    "static/media/cake.png": "/Portfolio-react/static/media/cake.6554473016d32b343f02.png",
-    "static/media/avataaars.svg": "/Portfolio-react/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
-    "static/media/fa-v4compatibility.ttf": "/Portfolio-react/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Portfolio-react/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
-    "index.html": "/Portfolio-react/index.html",
-    "main.f3e42085.css.map": "/Portfolio-react/static/css/main.f3e42085.css.map",
-    "main.19382465.js.map": "/Portfolio-react/static/js/main.19382465.js.map"
+    "main.css": "/home/static/css/main.78ba1993.css",
+    "main.js": "/home/static/js/main.0cc9da2e.js",
+    "static/media/fa-solid-900.ttf": "/home/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/home/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/home/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/home/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/home/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/cabin.png": "/home/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/home/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/home/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/cake.png": "/home/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/home/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/home/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/home/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/home/index.html",
+    "main.78ba1993.css.map": "/home/static/css/main.78ba1993.css.map",
+    "main.0cc9da2e.js.map": "/home/static/js/main.0cc9da2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3e42085.css",
-    "static/js/main.19382465.js"
+    "static/css/main.78ba1993.css",
+    "static/js/main.0cc9da2e.js"
   ]
 }
